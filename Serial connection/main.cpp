@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-const int LED1_PIN = 2;
+const int LED1_PIN = 2; 
 const int LED2_PIN = 4;
 
 bool led1State = false;
